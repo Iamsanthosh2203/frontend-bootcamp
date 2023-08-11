@@ -28,4 +28,31 @@ This repository contains all the details about frontend bootcamp and also contai
 
 ## Single Page Webpages
 
+<h3>Result Summary</h3>
 
+### Desktop
+<a href="https://ibb.co/C6mrhdr"><img src="https://i.ibb.co/r3FW4PW/desktop-preview.jpg" alt="desktop-preview" border="0"></a>
+
+### Mobile
+<a href="https://ibb.co/CJrMxdp"><img src="https://i.ibb.co/vstQ25C/mobile-design.jpg" alt="mobile-design" border="0"></a>
+
+
+<hr>
+
+<h3>Base Appeal</h3>
+
+### Desktop
+<a href="https://ibb.co/JBh2R4P"><img src="https://i.ibb.co/DVqkDyn/active-states.jpg" alt="active-states" border="0"></a>
+
+### Mobile
+<a href="https://ibb.co/VgbGcB1"><img src="https://i.ibb.co/n74yNkG/mobile-design.jpg" alt="mobile-design" border="0"></a>
+
+<hr>
+
+<h3>Intro Component</h3>
+
+### Desktop
+<a href="https://ibb.co/BG41BDb"><img src="https://i.ibb.co/dtbhD9F/desktop-design.jpg" alt="desktop-design" border="0"></a>
+
+### Mobile
+<a href="https://ibb.co/NNDQQrf"><img src="https://i.ibb.co/c8fMMwR/mobile-design.jpg" alt="mobile-design" border="0"></a>
